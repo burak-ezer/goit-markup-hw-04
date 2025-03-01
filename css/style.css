@@ -4,7 +4,6 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-
 *,
 *:before,
 *:after {
@@ -18,7 +17,8 @@ header {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
+  box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
 .sar_dsa {
@@ -63,9 +63,15 @@ a:focus {
 
 .bolum-bir {
   background-color: #2e2f42;
-  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-name.jpeg);
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/img-name.jpeg);
   max-width: 1440px;
   background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 section.bolum-bir h1 {
@@ -295,4 +301,8 @@ div {
 
 header .container {
   display: flex;
+}
+
+.bir-buton {
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
