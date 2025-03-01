@@ -1,0 +1,292 @@
+body {
+  color: #434455;
+  background-color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: unset;
+}
+
+header {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.sar_dsa {
+  color: #2e2f42;
+  padding: 24px 0;
+}
+
+.sak_dsa {
+  color: #434455;
+}
+
+.logo-sinif .logo-span {
+  color: #2e2f42;
+}
+
+.alt-bilgi .logo-sinif .logo-span {
+  color: #f4f4fd;
+}
+
+a {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  font-size: 16px;
+  margin-bottom: 16px;
+  margin-right: 76px;
+  display: inline-block;
+}
+a:hover {
+  color: #404bbf;
+}
+
+a:focus {
+  color: #404bbf;
+}
+
+.footer-p {
+  color: #f4f4fd;
+}
+
+.bolum-bir {
+  background-color: #2e2f42;
+}
+
+section.bolum-bir h1 {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  max-width: 496px;
+}
+
+.bolum-dort {
+  padding: 120px 0;
+}
+
+.bolum-uc {
+  background-color: #f4f4fd;
+}
+
+.bolum-uc .eleman-uc {
+  background-color: #ffffff;
+  border-radius: 0px 0px 4px 4px;
+}
+
+footer {
+  background-color: #2e2f42;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  padding: 100px 0;
+}
+
+.alt-bilgi .footer-p {
+  color: #f4f4fd;
+}
+
+.alt-bilgi a {
+  display: inline-block;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  margin-bottom: 8px;
+}
+h2 {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-transform: capitalize;
+  margin-bottom: 72px;
+}
+p {
+  color: #f4f4fd;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  font-size: 16px;
+}
+
+.logo-sinif {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
+  font-size: 18px;
+}
+
+button {
+  background-color: #4d5ae5;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #404bbf;
+}
+
+button:focus {
+  background-color: #404bbf;
+}
+address {
+  font-style: normal;
+}
+
+img {
+  display: block;
+}
+
+.baslik-bar {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.baslik-bar {
+  display: flex;
+}
+
+.baslik-nav {
+  align-items: center;
+}
+
+header > a {
+  margin-right: 76px;
+}
+
+.baslik-nav-ul {
+  display: flex;
+  gap: 40px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.baslik-adrress-ul {
+  display: flex;
+  gap: 40px;
+}
+
+.bolum-bir {
+  padding: 188px 0;
+}
+
+.bolum-iki {
+  padding: 120px 0;
+}
+
+.bolum-uc {
+  padding: 120px 0;
+}
+
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+nav {
+  display: flex;
+}
+
+.liste-iki {
+  display: flex;
+  gap: 24px;
+}
+
+.liste-uc {
+  display: flex;
+  gap: 24px;
+}
+
+.liste-dort {
+  display: flex;
+  gap: 24px;
+  row-gap: 48px;
+}
+
+div {
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+  margin-bottom: 8px;
+}
+
+.bolum-uc p {
+  text-align: center;
+}
+
+.bolum-uc div {
+  padding: 32px 0;
+}
+
+.ele-dort {
+  width: calc((100% - 48px) / 3);
+}
+
+.bolum-uc .uca-h {
+  text-align: center;
+}
+
+.eleman-iki {
+  width: calc((100% - 72px) / 4);
+}
+
+.eleman-uc {
+  width: calc((100% - 72px) / 4);
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+.bolum-dort .liste-dort {
+  flex-wrap: wrap;
+}
+
+header .container {
+  display: flex;
+}
