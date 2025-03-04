@@ -191,6 +191,11 @@ footer > div {
   gap: 24px;
 }
 
+.social-media-box svg {
+  width: 16;
+  height: 16;
+}
+
 button {
   background-color: #4d5ae5;
   font-family: 'Roboto', sans-serif;
