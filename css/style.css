@@ -411,3 +411,13 @@ footer .burak-asd {
   justify-content: center;
   border-radius: 50%;
 }
+
+.alt-bilgi .footer-liste {
+  display: flex;
+  gap: 16px;
+}
+
+.alt-bilgi .footer-eleman {
+  width: 40px;
+  height: 40px;
+}
