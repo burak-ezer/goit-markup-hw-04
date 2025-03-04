@@ -392,7 +392,11 @@ footer .burak-asd {
   transform: translateY(0%);
 }
 
-.bolum-uc .eleman-uc .social-icon {
+.bolum-uc .eleman-uc .social-icon a {
   width: 100%;
   height: 100%;
+  background-color: #4d5ae5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
