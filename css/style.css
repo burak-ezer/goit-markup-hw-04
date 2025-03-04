@@ -441,6 +441,8 @@ footer div {
 }
 
 .dort2-p {
+  height: 100%;
+  width: 100%;
   color: #f4f4fd;
   padding: 40px 32px;
   background-color: #4d5ae5;
