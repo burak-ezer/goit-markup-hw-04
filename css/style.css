@@ -378,3 +378,7 @@ footer .burak-asd {
 .footer-sosyalmedya a {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
+.icon-footer {
+  fill: #f4f4fd;
+}
