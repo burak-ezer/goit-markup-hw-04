@@ -364,8 +364,13 @@ header .container {
 footer div {
   display: flex;
   align-items: baseline;
+  margin-right: 120px;
 }
 
 footer .burak-asd {
   margin-right: 120px;
+  font-weight: 500;
+  color: #FFFFFF;
+  margin-bottom: 16px;
+  
 }
