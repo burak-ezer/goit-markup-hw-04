@@ -483,3 +483,11 @@ svg {
 .burak-d {
   display: block;
 }
+
+footer > div {
+  margin-right: 120px;
+}
+
+footer > p {
+  margin-bottom: 16px;
+}
