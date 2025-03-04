@@ -403,6 +403,14 @@ footer div {
   border-radius: 50%;
 }
 
+.bolum-uc .eleman-uc .social-icon a:hover {
+  background-color: #404bbf;
+}
+
+.bolum-uc .eleman-uc .social-icon a:focus {
+  background-color: #404bbf;
+}
+
 .alt-bilgi .footer-liste a {
   width: 100%;
   height: 100%;
@@ -458,4 +466,8 @@ footer div {
 
 .burak-asd {
   margin-right: 120px;
+}
+
+svg {
+  fill: #f4f4fd;
 }
