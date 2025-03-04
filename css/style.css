@@ -386,7 +386,7 @@ footer div {
   transform: translateY(0%);
 }
 
-.bolum-uc .eleman-uc .social-icon a {
+.bolum-uc .eleman-uc .social-eleman a {
   width: 100%;
   height: 100%;
   background-color: #4d5ae5;
@@ -396,11 +396,11 @@ footer div {
   border-radius: 50%;
 }
 
-.bolum-uc .eleman-uc .social-icon a:hover {
+.bolum-uc .eleman-uc .social-eleman a:hover {
   background-color: #404bbf;
 }
 
-.bolum-uc .eleman-uc .social-icon a:focus {
+.bolum-uc .eleman-uc .social-eleman a:focus {
   background-color: #404bbf;
 }
 
