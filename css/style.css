@@ -365,3 +365,7 @@ footer div {
   display: flex;
   align-items: baseline;
 }
+
+footer .burak-asd {
+  margin-right: 120px;
+}
