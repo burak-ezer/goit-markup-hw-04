@@ -188,10 +188,6 @@ p {
   height: 40;
 }
 
-footer > div {
-  margin-right: 120px;
-}
-
 .social-media-box {
   display: flex;
   justify-content: center;
@@ -366,14 +362,11 @@ header .container {
 footer div {
   display: flex;
   align-items: baseline;
-  margin-right: 120px;
 }
 
 .alt-bilgi .burak-asd p {
   font-weight: 500;
   color: #ffffff;
-  margin-right: 120px;
-  margin-bottom: 16px;
 }
 
 .footer-sosyalmedya a {
