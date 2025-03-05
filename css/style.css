@@ -4,11 +4,6 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-*,
-*:before,
-*:after {
-  box-sizing: unset;
-}
 
 header {
   font-weight: 700;
