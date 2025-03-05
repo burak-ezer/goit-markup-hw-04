@@ -43,6 +43,7 @@ a {
   margin-bottom: 16px;
   margin-right: 76px;
   display: inline-block;
+  text-decoration: none;
 }
 a:hover {
   color: #404bbf;
@@ -479,6 +480,7 @@ svg {
 }
 
 .burak-d {
-  display: block;
+  display: flex;
+  
   margin-right: 120px;
 }
