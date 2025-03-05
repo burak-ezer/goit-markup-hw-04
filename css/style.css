@@ -445,15 +445,19 @@ footer div {
 }
 
 .dor-piki {
+  left: 0;
   top: 0;
   color: #f4f4fd;
   padding: 40px 32px;
   background-color: #4d5ae5;
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
   position: absolute;
+  transform: translateY(100%);
+}
+
+.ele-dort .dort-img-li p {
   width: 100%;
   height: 100%;
-  transform: translateY(100%);
 }
 
 .ele-dort:hover .dor-piki {
