@@ -362,6 +362,11 @@ footer div {
   color: #ffffff;
 }
 
+.burak-asd {
+  display: block;
+  margin-right: 120px;
+}
+
 .footer-sosyalmedya a {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -477,12 +482,5 @@ svg {
 
 .burak-d {
   display: block;
-}
-
-footer > div {
   margin-right: 120px;
-}
-
-footer > p {
-  margin-bottom: 16px;
 }
