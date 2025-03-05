@@ -356,7 +356,7 @@ footer div {
   align-items: baseline;
 }
 
-.alt-bilgi .burak-asd p {
+.alt-bilgi p {
   font-weight: 500;
   margin-bottom: 16px;
   color: #ffffff;
@@ -459,10 +459,6 @@ footer div {
 
 .ele-dort:hover .dor-piki {
   transform: translateY(0%);
-}
-
-.alt-bilgi .burak-asd {
-  margin-right: 120px;
 }
 
 svg {
