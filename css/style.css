@@ -277,6 +277,7 @@ nav {
 }
 
 .liste-dort {
+  
   display: flex;
   gap: 24px;
   row-gap: 48px;
@@ -434,6 +435,7 @@ footer div {
 }
 
 .dor-piki {
+  box-sizing: border-box;
   top: 0;
   height: 100%;
   width: 100%;
