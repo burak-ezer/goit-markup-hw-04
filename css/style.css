@@ -344,8 +344,6 @@ footer div {
 }
 
 .burak-asd {
-  display: flex;
-  flex-direction: column;
   padding-bottom: 120px;
   margin-right: 120px;
 }
