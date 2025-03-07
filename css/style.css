@@ -286,6 +286,9 @@ nav {
 div {
   border: 1px solid #e7e9fc;
   border-top: none;
+}
+
+.bolum-iki div {
   margin-bottom: 8px;
 }
 
