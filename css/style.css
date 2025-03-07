@@ -434,6 +434,7 @@ footer div {
 }
 
 .dor-piki {
+  box-sizing: unset;
   top: 0;
   height: 100%;
   width: 100%;
