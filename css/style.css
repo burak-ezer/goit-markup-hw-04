@@ -141,7 +141,7 @@ h2 {
   color: #2e2f42;
   text-transform: capitalize;
   margin-bottom: 72px;
-}}
+}
 
 .logo-sinif {
   font-family: 'Raleway', sans-serif;
@@ -427,6 +427,9 @@ footer div {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+footer p {
   margin-bottom: 16px;
 }
 
